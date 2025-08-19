@@ -1,12 +1,12 @@
-[user.Broly]
-pass = d964baf7d0a948af4dd14da196d3e378d779b5e31f04e998798bd2a328cdee16
-
-[user.Goku]
-pass = d964baf7d0a948af4dd14da196d3e378d779b5e31f04e998798bd2a328cdee16
-
 [user.Vegeta]
 pass = d5c27db0dada30212f6a858f1264c62268e703e97d4cc5dccebf073eaa6f439d
 
 [user.Gohan]
 pass = 5cabaa953bd37c3e357e779bb82aa195eda3b2afa2bdd19594a7162c4f7497be
+
+[user.Broly]
+pass = 10ed19e4c2622c4ee4362bb2eb4ba767a3cb56f87ccb8dfa4c34499c7c690810
+
+[user.Goku]
+pass = 6f04f0b2d1b42bc05badd748b1aac7f386d789b3dcbf5ad5414c0563ff16e425
 
